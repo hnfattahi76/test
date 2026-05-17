@@ -220,14 +220,22 @@ Both tools are excellent, but they serve different needs:
 - Vitest → Speed & modern developer experience
 
 ## Examples
-- utitly test
-- component test
-- mock test
+- Utitly test
+- Mock test
+- Report
 ## Integration testing
-- 
+Integration testing ensures multiple components work together correctly.
 ### Pros 
--
+- Detects communication issues between modules
+- More realistic than unit tests
+- Improves system reliability
 ### Cons
--
+- Slower than unit tests
+- Harder debugging
+- Requires setup (DB, APIs, services)
 ### Tools
--
+- React Testing Library
+- Cypress
+- Playwright
+### Example
+  - Component test
