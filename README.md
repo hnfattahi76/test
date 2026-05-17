@@ -86,8 +86,6 @@ Both are widely used for testing React and modern JavaScript applications, but t
 
 ---
 
-## Overview
-
 ## Jest
 A mature and widely adopted testing framework known for stability, reliability, and rich features. It is commonly used in large-scale production applications.
 
